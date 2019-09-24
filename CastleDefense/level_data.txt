@@ -1,0 +1,4 @@
+level data
+shroom 3 end
+shroom 3 chomp 2 end
+shroom 12 chomp 1 end
